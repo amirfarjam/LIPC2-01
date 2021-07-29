@@ -1,4 +1,4 @@
-# LIPC2-01 ( Mr.Salahshoor Class Homework )
+# LIPC2-01 ( Homework for Mr.Salahshoor Class )
 
 ## Exercise 1
 1. Windows was installed 
